@@ -1,2 +1,5 @@
 # Hello-Word
-my first repository of github
+hi,humans!
+
+I want learn more and more artechment and agrophythm  kownledge .
+
